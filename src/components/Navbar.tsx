@@ -48,7 +48,7 @@ const Navbar = () => {
               <Globe2 className="w-5 h-5 text-primary-foreground" />
             </motion.div>
             <span className="font-display font-bold text-xl text-foreground">
-              Empathy<span className="text-primary">Bridge</span>
+              Terra<span className="text-gradient-ocean">Echo</span>
             </span>
           </Link>
 
