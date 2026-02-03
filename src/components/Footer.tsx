@@ -13,11 +13,11 @@ const Footer = () => {
                 <Globe2 className="w-5 h-5 text-primary-foreground" />
               </div>
               <span className="font-display font-bold text-xl">
-                Empathy<span className="text-primary">Bridge</span>
+                Terra<span className="text-gradient-ocean">Echo</span>
               </span>
             </div>
             <p className="text-primary-foreground/70 max-w-sm mb-6">
-              Bridging the gap between climate data and human emotion. Making the global personal, the abstract tangible.
+              Amplifying Earth's climate story through your lens. Making data resonate, one story at a time.
             </p>
             <div className="flex gap-4">
               <a href="#" className="w-10 h-10 rounded-full bg-primary-foreground/10 flex items-center justify-center hover:bg-primary-foreground/20 transition-colors">
@@ -57,10 +57,10 @@ const Footer = () => {
 
         <div className="border-t border-primary-foreground/10 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-primary-foreground/50 text-sm">
-            © 2026 EmpathyBridge. Made with <Heart className="w-3 h-3 inline text-accent" /> for our planet.
+            © 2026 TerraEcho. Made with <Heart className="w-3 h-3 inline text-accent" /> for our planet.
           </p>
           <p className="text-primary-foreground/50 text-sm">
-            Data to Empathy Bridge Project
+            Climate Stories That Resonate
           </p>
         </div>
       </div>
